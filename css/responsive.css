@@ -22,6 +22,12 @@
   .banner-slider .slick-dots {
     bottom: 30px;
   }
+.slick-dots li button {
+	width: 13px;
+	height: 13px;
+	line-height: 14px;
+}
+	
   .about-text h2 {
     text-align: center;
     padding-top: 20px;
