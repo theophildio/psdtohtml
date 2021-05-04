@@ -92,8 +92,8 @@ $(document).ready(function() {
   // Venobox
   $('.venobox').venobox({
     spinner: 'wave',
-    framewidth : '400px',                        
-    frameheight: '250px',
+    framewidth : '600px',                        
+    frameheight: '350px',
     share      : ['facebook', 'twitter', 'linkedin', 'pinterest']
   });
 
