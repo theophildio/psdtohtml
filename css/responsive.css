@@ -1,0 +1,361 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .navbar-nav {
+    background: rgb(71, 54, 108, 0.9);
+  }
+  .navbar-light .navbar-toggler {
+    background: #ffffff;
+  }
+  .banner-text-area {
+    padding: 100px 0;
+  }
+  .banner-text-area h2 {
+    font-size: 22px;
+  }
+  .banner-text-area p {
+    font-size: 14;
+    padding: 50px 40px 30px;
+  }
+  .banner-slider .slick-dots {
+    bottom: 30px;
+  }
+  .about-text h2 {
+    text-align: center;
+    padding-top: 20px;
+  }
+  .about-text a {
+    width: 100%;
+  }
+  #video-part {
+    padding: 60px 0;
+  }
+  .service-text {
+    padding: 45px 0;
+  }
+  .services-area {
+    padding: 10px 0;
+  }
+  .team-top-text {
+    padding: 20px 0;
+  }
+  .team-items {
+    padding: 35px 0;
+  }
+  .team-top-text p {
+    font-size: 12px;
+  }
+  .team-bottom-text a {
+    display: block;
+    width: 100%;
+  }
+  #portfolio {
+    padding: 25px 0;
+  }
+  .top-left-text h3 {
+    padding-bottom: 0;
+    text-align: center;
+  }
+  
+  .top-right-text p {
+    text-align: center;
+  }
+  .project-button a {
+    width: 100%;
+  }
+  #testimonials {
+    padding: 30px 0;
+  }
+  .testimonials-text {
+    padding: 0;
+  }
+  .testimonials-text p {
+    padding: 20px 0;
+  }
+  .img-slider {
+    width: 300px;
+  }
+  .img-slider {
+    padding: 0;
+  }
+  .img-slider-left {
+    display: none !important;
+  }
+  .img-slider-right {
+    display: none !important;
+  }
+  .contact-top {
+    padding: 30px 0;
+  }
+  .contact-left-text h3 {
+    text-align: center;
+  }
+  .contact-right-text h3 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .contact-btn {
+    width: 100%;
+  }
+  .happy-client {
+    text-align: center;
+  }
+  #footer {
+    padding: 30px 0;
+  }
+  .footer-top {
+    text-align: center;
+  }
+  .footer-top-left p {
+    padding: 25px 0;
+  
+  }
+  .footer_bottom_left ul li {
+    padding-right: 20px;
+  }
+  .footer_bottom_right p {
+    padding: 20px 0 0 0;
+  }
+  .form-inline {
+    justify-content: center;
+  }
+  .social-icons {
+    display: inline-block;
+  }
+  .footer_bottom_right {
+    text-align: center !important;
+  }
+  .footer_bottom_left {
+    text-align: center;
+  }
+  .footer_bottom_left ul {
+    display: inline-block;
+  }
+  .footer_bottom_left ul li {
+    padding-right: 10px;
+  }
+  .footer_bottom_right p {
+    padding: 10px 0 0 0;
+  }
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .navbar-nav {
+    background: rgb(71, 54, 108, 0.9);
+  }
+  .navbar-light .navbar-toggler {
+    background: #ffffff;
+  }
+  .banner-text-area {
+    padding: 100px 0;
+  }
+  .banner-text-area h2 {
+    font-size: 24px;
+  }
+  .banner-text-area p {
+    padding: 50px 40px 30px;
+  }
+  .banner-slider .slick-dots {
+    bottom: 30px;
+  }
+  .about-text h2 {
+    text-align: center;
+    padding-top: 20px;
+  }
+  .about-text a {
+    width: 100%;
+  }
+  #video-part {
+    padding: 80px 0;
+  }
+  .service-text {
+    padding: 45px 0;
+  }
+  .services-area {
+    padding: 10px 0;
+  }
+  .team-top-text {
+    padding: 20px 0;
+  }
+  .team-items {
+    padding: 35px 0;
+  }
+  .team-bottom-text a {
+    display: block;
+    width: 100%;
+  }
+  #portfolio {
+    padding: 25px 0;
+  }
+  .project-button a {
+    width: 100%;
+  }
+  #testimonials {
+    padding: 30px 0;
+  }
+  .top-left-text h3 {
+    padding-bottom: 25px;
+  }
+  #testimonials {
+    padding: 30px 0;
+  }
+  .testimonials-text {
+    padding: 0;
+  }
+  .testimonials-text p {
+    padding: 20px 0;
+  }
+  .img-slider-left {
+    top: 85%;
+    left: 15%;
+  }
+  .img-slider-right {
+    top: 85%;
+    right: 15%;
+  }
+  .contact-top {
+    padding: 30px 0;
+  }
+  .contact-left-text h3 {
+    text-align: center;
+  }
+  .contact-right-text h3 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .contact-btn {
+    width: 100%;
+  }
+  .happy-client {
+    text-align: center;
+  }
+  #footer {
+    padding: 30px 0;
+  }
+  .footer_bottom_left ul li {
+    padding-right: 20px;
+  }
+  .footer_bottom_right p {
+    padding: 20px 0 0 0;
+  }
+  .text-right {
+    text-align: left !important;
+  }
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .navbar-nav {
+    background: rgb(71, 54, 108, 0.9);
+  }
+  .navbar-light .navbar-toggler {
+    background: #ffffff;
+  }
+  .banner-text-area {
+    padding: 150px 0;
+  }
+  .about-text h2 {
+    text-align: center;
+    padding-top: 20px;
+  }
+  .about-text p {
+    padding-bottom: 10px;
+  }
+  .about-text a {
+    width: 100%;
+  }
+  #video-part {
+    padding: 80px 0;
+  }
+  .service-text {
+    padding: 45px 0;
+  }
+  .services-area {
+    padding: 10px 0;
+  }
+  .team-top-text {
+    padding: 20px 0;
+  }
+  .team-items {
+    padding: 35px 0;
+  }
+  .team-slider .slick-dots {
+    bottom: -30px;
+  }
+  .team-bottom-text {
+    padding-top: 35px;
+  }
+  .team-bottom-text a {
+    display: block;
+    width: 100%;
+  }
+  #portfolio {
+    padding: 25px 0;
+  }
+  .top-left-text h3 {
+    padding-bottom: 25px;
+  }
+  .project-button a {
+    width: 100%;
+  }
+  #testimonials {
+    padding: 30px 0;
+  }
+  .testimonials-text p {
+    padding: 30px 0px;
+  }
+  .img-slider-left {
+    top: 85%;
+    left: 15%;
+  }
+  .img-slider-right {
+    top: 85%;
+    right: 15%;
+  }
+  .footer-top-left p {
+    padding: 25px 0px 0 0;
+    font-size: 11px;
+  }
+  .footer-top-mid p {
+    font-size: 11px;
+  }
+  .footer-top-right ul li {
+    width: 20px;
+    height: 20px;
+    line-height: 10px;
+    margin: 20px 5px 0 0;
+  }
+  .footer_bottom_left ul li {
+    padding-right: 20px;
+  }
+  .footer_bottom_right p {
+    padding: 40px 0px 0 0;
+  }
+  .footer-top-right ul li {
+    width: 25px;
+    height: 25px;
+    line-height: 16px;
+  }
+  .footer-top-right ul li a {
+    font-size: 12px;
+  }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .video-icon h3 {
+    font-size: 14px;
+  }
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
