@@ -78,9 +78,9 @@ ul {
 .slick-dots li {
     display: inline-block;
     margin-right: 10px;
-    width: 22px;
-    height: 22px;
-    line-height: 22px;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
     border-radius: 50%;
     border: 2px solid #ffffff;
 }
