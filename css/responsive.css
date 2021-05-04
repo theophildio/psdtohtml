@@ -35,6 +35,9 @@
   .service-text {
     padding: 45px 0;
   }
+  .service-text p::after {
+	top: 50px;
+  }
   .services-area {
     padding: 10px 0;
   }
